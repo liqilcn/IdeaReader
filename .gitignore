@@ -1,0 +1,13 @@
+/datasets
+/machine_reading_jsons
+/models
+/tracing_evolution_tree_jsons
+/model_training/summary_sentence_extraction/Model
+__pycache__/
+.idea/
+**/.DS_Store
+.ipynb_checkpoints
+/model_training/automatic_related_work_generation/logs
+/model_training/automatic_related_work_generation/raw_data
+/model_training/automatic_related_work_generation/results
+/model_training/automatic_related_work_generation/torch_data

@@ -1,0 +1,8 @@
+{
+  "pub_ids": [],
+  "mrt_type": "both",
+  "verbosity": "INFO",
+  "run_parallel": 0,
+  "workers": 16,
+  "device": "cuda:0"
+}
